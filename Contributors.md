@@ -7804,4 +7804,4 @@ Harshit Bisht
 - [Brt]
 - [Arif Rahman](https://github.com/arifrhm) - My first open-source contribution!
 - [Gaspard](https://github.com/gasparddnz)
--[Lakshu](https://github.com/lakshu230/first-contributions)
+- [Lakshu](https://github.com/lakshu230)
